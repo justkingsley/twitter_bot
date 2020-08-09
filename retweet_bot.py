@@ -1,7 +1,6 @@
 
 # Import Tweepy, sleep, credentials.py
 import tweepy
-import time 
 
 from credentials import consumer_key
 from credentials import consumer_secret
