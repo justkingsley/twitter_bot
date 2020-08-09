@@ -3,6 +3,8 @@ node_modules/
 someOtherfoler/
 __pycache__/
 environment/
+_pycache__/
+
 
 # Compiled source #
 ###################
