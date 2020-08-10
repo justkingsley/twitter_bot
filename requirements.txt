@@ -1,5 +1,5 @@
 #tweepy
-requests
+#requests
 appnope==0.1.0
 astroid==1.6.5
 atomicwrites==1.2.1
